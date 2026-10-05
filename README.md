@@ -96,14 +96,3 @@ To open the workbook locally, download the `.twbx` file from this repository and
 - Raw counts and percentages tell different stories, so using both gives a fuller picture.
 
 ---
-
-## Acknowledgements
-
-This project was built following the *COVID Dashboard Tutorial* by **Alex The Analyst**, and extended with my own formatting and analysis.
-
----
-
-## Author
-
-**Sthembiso Mthombeni**
-Add your LinkedIn and GitHub links here.
