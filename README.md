@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard that summarises the global impact of COVID-19: how many people were infected, how many died, which regions and countries were hit hardest, and how infection rates are projected to change.
 
-**Live dashboard:** [Add your Tableau Public link here]
+**Live dashboard:** https://public.tableau.com/app/profile/sthembiso.mthombeni/viz/Book1_17911496304720/Dashboard1
 
 ![Dashboard preview](dashboard.jpeg)
 
