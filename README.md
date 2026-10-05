@@ -4,8 +4,7 @@ An interactive Tableau dashboard that summarises the global impact of COVID-19: 
 
 **Live dashboard:** [Add your Tableau Public link here]
 
-![Dashboard preview](dashboard.png)
-
+![Dashboard preview](dashboard.jpeg)
 
 ---
 
@@ -54,8 +53,8 @@ A line chart tracking the average percent of the population infected by month fo
 
 - **Solid lines** show actual recorded data.
 - **Lighter lines with shaded bands** show Tableau's forecast, with the shaded area representing the prediction interval (the range of likely values).
-- Highlighted data labels show the latest values, for example the **United States at 8.35%** and **Mexico at 0.56%** at the end of the actual data.
-- The forecast projects the United States continuing to climb, while China and India stay comparatively low.
+- Highlighted data labels show the latest actual value for the **United States (8.35%)** and the forecast values at the end of the period: **United States 18.67%** and **United Kingdom 14.98%**.
+- The forecast projects the United States and United Kingdom continuing to climb, while India, China and Mexico stay comparatively low.
 
 ---
 
@@ -98,3 +97,13 @@ To open the workbook locally, download the `.twbx` file from this repository and
 
 ---
 
+## Acknowledgements
+
+This project was built following the *COVID Dashboard Tutorial* by **Alex The Analyst**, and extended with my own formatting and analysis.
+
+---
+
+## Author
+
+**Sthembiso Mthombeni**
+Add your LinkedIn and GitHub links here.
