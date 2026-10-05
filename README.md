@@ -5,7 +5,8 @@ An interactive Tableau dashboard that summarises the global impact of COVID-19: 
 **Live dashboard:** [Add your Tableau Public link here]
 
 ![Dashboard preview](dashboard.png)
-<!-- Save your dashboard screenshot as dashboard.png in the repo to display it here -->
+<!-- Save you<img width="1305" height="573" alt="Dashboard" src="https://github.com/user-attachments/assets/bf5cd098-4130-4831-8fbb-fec5b2a4f468" />
+r dashboard screenshot as dashboard.png in the repo to display it here -->
 
 ---
 
@@ -98,13 +99,3 @@ To open the workbook locally, download the `.twbx` file from this repository and
 
 ---
 
-## Acknowledgements
-
-This project was built following the *COVID Dashboard Tutorial* by **Alex The Analyst**, and extended with my own formatting and analysis.
-
----
-
-## Author
-
-**Sthembiso Mthombeni**
-Add your LinkedIn and GitHub links here.
